@@ -3,3 +3,5 @@ data/
 net.pth
 venv
 venv/
+.idea
+.idea/
